@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/harshalsonone123/ChatGPT-AI-App-Xeno">
-    <img src="[https://images.nightcafe.studio//assets/tdraw-girl.jpg?tr=w-1200,c-at_max](https://img.freepik.com/premium-photo/system-artificial-intelligence-chatgpt-chat-bot-ai-technology-smart-robot-ai-chat-gpt-application-software-robot-application-chat-gpt-generative-ai_438099-12209.jpg)https://img.freepik.com/premium-photo/system-artificial-intelligence-chatgpt-chat-bot-ai-technology-smart-robot-ai-chat-gpt-application-software-robot-application-chat-gpt-generative-ai_438099-12209.jpg" alt="Logo" width="400" height="400">
+    <img src="https://img.freepik.com/premium-photo/system-artificial-intelligence-chatgpt-chat-bot-ai-technology-smart-robot-ai-chat-gpt-application-software-robot-application-chat-gpt-generative-ai_438099-12209.jpg" alt="Logo" width="400" height="300">
   </a>
 <h3 align="center"></h3>
 
@@ -20,7 +20,7 @@
 
 View the project 🎉
 
-- [Netlify](https://chat-gpt-ai-app-xeno.vercel.app/)
+- [Render](https://chat-gpt-ai-app-xeno.vercel.app/)
 
 ### Built With
 
@@ -33,7 +33,7 @@ View the project 🎉
 
 Harshal Sonone- harshalsonone2501@gmail.com
 
-Project Link: [https://github.com/harshalsonone123/AI-Image-Generation-MERN-App](https://github.com/harshalsonone123/AI-Image-Generation-MERN-App)
+Project Link: [https://github.com/harshalsonone123/ChatGPT-AI-App-Xeno](https://github.com/harshalsonone123/ChatGPT-AI-App-Xeno)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
